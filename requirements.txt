@@ -1,0 +1,5 @@
+# 本專案是純 HTML/CSS/JavaScript PWA，不使用 Python。
+# 因此沒有 pip 套件需求；本檔保留作為作業交付清單。
+# Browser CDN dependencies are pinned in index.html:
+# @mediapipe/tasks-vision@0.10.14
+# Chart.js@4.4.7
